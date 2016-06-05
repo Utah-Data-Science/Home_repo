@@ -21,7 +21,7 @@ Walkthrough for setting up the core tools for machine learning with Python and e
 - [Learn X in Y](https://learnxinyminutes.com/docs/python/) - very brief but good quick syntax reference
 - [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
 
-##### Git
+#### Git
 
 - [Github Tutorial](https://try.github.io/)
 - [Learn Git Branching](http://learngitbranching.js.org/)
