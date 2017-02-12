@@ -8,9 +8,10 @@ Walkthrough for setting up the core tools for machine learning with Python and e
 ### Machine Learning
 * [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
+### Suggested Introductory Resources:
+### Statistics
+* [OpenIntro Stats](https://www.openintro.org/stat/textbook.php?stat_book=os) - very approachable content and accompanying videos are availble on Youtube
 
-
-### Optional Introductory Resources:
 #### Machine Learning
 * Andrew Ng's [Coursera Machine Learning Course](https://www.coursera.org/learn/machine-learning)
 * [Machine Learning Mastery](http://machinelearningmastery.com/start-here/)
@@ -21,7 +22,17 @@ Walkthrough for setting up the core tools for machine learning with Python and e
 - [Learn X in Y](https://learnxinyminutes.com/docs/python/) - very brief but good quick syntax reference
 - [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
 
-#### Git
+##### Pandas 
+- [Intro to Pandas](https://github.com/SethPaul/Pandas_Intro)
 
+#### R
+- [DataCamp](https://www.datacamp.com/courses/free-introduction-to-r)
+- [Intro to Data Manipulation in R](https://github.com/SethPaul/data_manipulation_meetup)
+- [Great Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
+
+##### Advanced R
+- [Advanced R with Hadley Wickham](http://adv-r.had.co.nz/)
+
+#### Git
 - [Github Tutorial](https://try.github.io/)
 - [Learn Git Branching](http://learngitbranching.js.org/)
