@@ -28,6 +28,7 @@ Walkthrough for setting up the core tools for machine learning with Python and e
 #### R
 - [DataCamp](https://www.datacamp.com/courses/free-introduction-to-r)
 - [Intro to Data Manipulation in R](https://github.com/SethPaul/data_manipulation_meetup)
+- [Intro to Data Visualizations using R's ggplot library](https://github.com/SethPaul/big_mountain_data_vis_2016)
 - [Great Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
 
 ##### Advanced R
