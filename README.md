@@ -33,6 +33,7 @@ Walkthrough for setting up the core tools for machine learning with Python and e
 
 ##### Advanced R
 - [Advanced R with Hadley Wickham](http://adv-r.had.co.nz/)
+- [Data Science for R by Hadley Wickham and Garrett Grolemund](http://r4ds.had.co.nz/) 
 
 #### Git
 - [Github Tutorial](https://try.github.io/)
