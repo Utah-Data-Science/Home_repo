@@ -1,5 +1,7 @@
 # Welcome to the Utah Data Science Group
 
+For helpful resources below we have some getting started content. Also check out the connected [wiki](https://github.com/Utah-Data-Science/Home_repo/wiki) for additional content. 
+
 To get up to speed and really get the most out of the talks it is suggested to complete the Python Machine Learning Setup walkthrough and the following Machine Learning introductory content.
 
 ### [Python Machine Learning Setup](https://gist.github.com/jpotts18/dc8b1cf97bae528f99a0)
